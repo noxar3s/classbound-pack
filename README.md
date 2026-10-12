@@ -18,7 +18,7 @@ build.py                                      pakuje ZIP i liczy sha1
 ```
 
 Klasy z teksturą: archer, wizard, assassin, berserker, illusioner, necromancer, paladin,
-stormcaller, vampire. Tank i Pyromaniac nie mają własnej (vanillowa tarcza / fire charge).
+stormcaller, vampire, pyromaniac, demon, angel. Tank i Windbearer nie mają własnej (vanillowa tarcza / breeze rod).
 
 ## Zmiana tekstury
 
