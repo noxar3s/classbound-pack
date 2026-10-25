@@ -1,0 +1,9 @@
+Fortcraft resource pack
+
+Weapon textures (swords, axes, spears, hammers, bows, crossbows) come from
+"Item Addon Pack" by Valaron - https://modrinth.com/resourcepack/item_addon
+Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Textures were copied unchanged and renamed. This pack is shared under the same license,
+non-commercial use only.
+
+HUD textures (health/shield/stamina bars, hotbar, inventory) made for Fortcraft.
